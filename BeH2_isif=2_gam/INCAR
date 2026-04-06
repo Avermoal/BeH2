@@ -1,0 +1,6 @@
+ ISMEAR = 0 ! Gaussian smearing
+ NSW = 100    ! 5 ionic steps
+ IBRION = 2 ! use the conjugate gradient algorithm
+ ISIF = 2
+ENCUT = 500
+EDIFF = 0.0000001
